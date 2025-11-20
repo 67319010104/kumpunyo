@@ -1,0 +1,1 @@
+<img src="./assets/img/<?php echo h($p['image'] ?? 'placeholder.png'); ?>" alt="" class="w-full h-48 object-cover rounded">
